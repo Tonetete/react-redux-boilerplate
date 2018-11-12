@@ -13,7 +13,7 @@ This boilerplate contains the following libraries:
 - Webpack.
 - Eslint & Prettier.
 
-To start just simply execute `npm i` & `npm run start`
+To start just simply execute `cd client && npm i` & `npm run start`
 
 Another commands:
 
