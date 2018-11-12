@@ -1,0 +1,15 @@
+[ignore]
+.*/node_modules/.*
+
+[include]
+
+[libs]
+
+[lints]
+
+[options]
+module.name_mapper='^@' ->'<PROJECT_ROOT>/src'
+module.name_mapper='^roots' ->'<PROJECT_ROOT>'
+module.name_mapper.extension='less' -> '<PROJECT_ROOT>/flow-stub.js.flow'
+
+[strict]

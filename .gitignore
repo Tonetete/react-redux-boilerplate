@@ -1,0 +1,12 @@
+/.vscode/
+
+/package-lock.json
+
+# node/npm
+/client/node_modules
+/client/src/build
+/client/jest-results.json
+/client/.storybook
+/client/.cache
+/client/test
+/client/package-lock.json
