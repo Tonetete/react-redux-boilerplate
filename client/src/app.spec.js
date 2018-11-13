@@ -11,7 +11,7 @@ describe('app Component', () => {
 
   const mockProps = () => ({
     location: {
-      pathname: '/app/offers'
+      pathname: '/app/main'
     }
   });
 
